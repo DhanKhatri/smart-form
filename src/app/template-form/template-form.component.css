@@ -1,0 +1,17 @@
+#form{
+   
+    
+    padding:10px;
+    margin-top:5px;
+    
+    font-weight: bold;
+   
+}
+h4{
+    text-align:center;
+    color: grey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input.ng-invalid {
+    border:1px solid red;
+}
